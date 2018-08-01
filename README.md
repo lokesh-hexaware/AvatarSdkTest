@@ -1,0 +1,2 @@
+# AvatarSdkTest
+Test for AvatarSDK
